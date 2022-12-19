@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "048c5044c0a4e0465f7edb2cbad63e1a--furniture-village--seater-sofa.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
